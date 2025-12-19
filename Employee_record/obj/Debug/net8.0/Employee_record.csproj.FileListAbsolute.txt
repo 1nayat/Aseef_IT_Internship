@@ -1,0 +1,14 @@
+C:\Crud\Employee_record\bin\Debug\net8.0\Employee_record.exe
+C:\Crud\Employee_record\bin\Debug\net8.0\Employee_record.deps.json
+C:\Crud\Employee_record\bin\Debug\net8.0\Employee_record.runtimeconfig.json
+C:\Crud\Employee_record\bin\Debug\net8.0\Employee_record.dll
+C:\Crud\Employee_record\bin\Debug\net8.0\Employee_record.pdb
+C:\Crud\Employee_record\obj\Debug\net8.0\Employee_record.GeneratedMSBuildEditorConfig.editorconfig
+C:\Crud\Employee_record\obj\Debug\net8.0\Employee_record.AssemblyInfoInputs.cache
+C:\Crud\Employee_record\obj\Debug\net8.0\Employee_record.AssemblyInfo.cs
+C:\Crud\Employee_record\obj\Debug\net8.0\Employee_record.csproj.CoreCompileInputs.cache
+C:\Crud\Employee_record\obj\Debug\net8.0\Employee_record.dll
+C:\Crud\Employee_record\obj\Debug\net8.0\refint\Employee_record.dll
+C:\Crud\Employee_record\obj\Debug\net8.0\Employee_record.pdb
+C:\Crud\Employee_record\obj\Debug\net8.0\Employee_record.genruntimeconfig.cache
+C:\Crud\Employee_record\obj\Debug\net8.0\ref\Employee_record.dll
