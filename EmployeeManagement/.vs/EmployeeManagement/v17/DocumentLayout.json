@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "C:\\InternshipProjects\\EmployeeManagement\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4190A324-F1FA-4361-8564-1E7D9EBD6A20}|EmployeeManagement.csproj|c:\\internshipprojects\\employeemanagement\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4190A324-F1FA-4361-8564-1E7D9EBD6A20}|EmployeeManagement.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4190A324-F1FA-4361-8564-1E7D9EBD6A20}|EmployeeManagement.csproj|c:\\internshipprojects\\employeemanagement\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4190A324-F1FA-4361-8564-1E7D9EBD6A20}|EmployeeManagement.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4190A324-F1FA-4361-8564-1E7D9EBD6A20}|EmployeeManagement.csproj|c:\\internshipprojects\\employeemanagement\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4190A324-F1FA-4361-8564-1E7D9EBD6A20}|EmployeeManagement.csproj|solutionrelative:models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4190A324-F1FA-4361-8564-1E7D9EBD6A20}|EmployeeManagement.csproj|c:\\internshipprojects\\employeemanagement\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4190A324-F1FA-4361-8564-1E7D9EBD6A20}|EmployeeManagement.csproj|solutionrelative:models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4190A324-F1FA-4361-8564-1E7D9EBD6A20}|EmployeeManagement.csproj|c:\\internshipprojects\\employeemanagement\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4190A324-F1FA-4361-8564-1E7D9EBD6A20}|EmployeeManagement.csproj|solutionrelative:controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4190A324-F1FA-4361-8564-1E7D9EBD6A20}|EmployeeManagement.csproj|c:\\internshipprojects\\employeemanagement\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4190A324-F1FA-4361-8564-1E7D9EBD6A20}|EmployeeManagement.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4190A324-F1FA-4361-8564-1E7D9EBD6A20}|EmployeeManagement.csproj|c:\\internshipprojects\\employeemanagement\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4190A324-F1FA-4361-8564-1E7D9EBD6A20}|EmployeeManagement.csproj|solutionrelative:services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4190A324-F1FA-4361-8564-1E7D9EBD6A20}|EmployeeManagement.csproj|c:\\internshipprojects\\employeemanagement\\services\\ijwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4190A324-F1FA-4361-8564-1E7D9EBD6A20}|EmployeeManagement.csproj|solutionrelative:services\\ijwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4190A324-F1FA-4361-8564-1E7D9EBD6A20}|EmployeeManagement.csproj|c:\\internshipprojects\\employeemanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -27,24 +31,104 @@
       "RelativeMoniker": "D:0:0:{4190A324-F1FA-4361-8564-1E7D9EBD6A20}|EmployeeManagement.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4190A324-F1FA-4361-8564-1E7D9EBD6A20}|EmployeeManagement.csproj|c:\\internshipprojects\\employeemanagement\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4190A324-F1FA-4361-8564-1E7D9EBD6A20}|EmployeeManagement.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4190A324-F1FA-4361-8564-1E7D9EBD6A20}|EmployeeManagement.csproj|c:\\internshipprojects\\employeemanagement\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4190A324-F1FA-4361-8564-1E7D9EBD6A20}|EmployeeManagement.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4190A324-F1FA-4361-8564-1E7D9EBD6A20}|EmployeeManagement.csproj|c:\\internshipprojects\\employeemanagement\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4190A324-F1FA-4361-8564-1E7D9EBD6A20}|EmployeeManagement.csproj|solutionrelative:controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4190A324-F1FA-4361-8564-1E7D9EBD6A20}|EmployeeManagement.csproj|c:\\internshipprojects\\employeemanagement\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4190A324-F1FA-4361-8564-1E7D9EBD6A20}|EmployeeManagement.csproj|solutionrelative:controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4190A324-F1FA-4361-8564-1E7D9EBD6A20}|EmployeeManagement.csproj|c:\\internshipprojects\\employeemanagement\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4190A324-F1FA-4361-8564-1E7D9EBD6A20}|EmployeeManagement.csproj|solutionrelative:dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4190A324-F1FA-4361-8564-1E7D9EBD6A20}|EmployeeManagement.csproj|c:\\internshipprojects\\employeemanagement\\dtos\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4190A324-F1FA-4361-8564-1E7D9EBD6A20}|EmployeeManagement.csproj|solutionrelative:dtos\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\InternshipProjects\\EmployeeManagement\\Migrations\\20251231065609_mig5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20251231065609_mig5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4190A324-F1FA-4361-8564-1E7D9EBD6A20}|EmployeeManagement.csproj|c:\\internshipprojects\\employeemanagement\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4190A324-F1FA-4361-8564-1E7D9EBD6A20}|EmployeeManagement.csproj|solutionrelative:models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4190A324-F1FA-4361-8564-1E7D9EBD6A20}|EmployeeManagement.csproj|c:\\internshipprojects\\employeemanagement\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4190A324-F1FA-4361-8564-1E7D9EBD6A20}|EmployeeManagement.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4190A324-F1FA-4361-8564-1E7D9EBD6A20}|EmployeeManagement.csproj|c:\\internshipprojects\\employeemanagement\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4190A324-F1FA-4361-8564-1E7D9EBD6A20}|EmployeeManagement.csproj|solutionrelative:dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4190A324-F1FA-4361-8564-1E7D9EBD6A20}|EmployeeManagement.csproj|c:\\internshipprojects\\employeemanagement\\controllers\\classescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4190A324-F1FA-4361-8564-1E7D9EBD6A20}|EmployeeManagement.csproj|solutionrelative:controllers\\classescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4190A324-F1FA-4361-8564-1E7D9EBD6A20}|EmployeeManagement.csproj|c:\\internshipprojects\\employeemanagement\\models\\teacherclasssubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4190A324-F1FA-4361-8564-1E7D9EBD6A20}|EmployeeManagement.csproj|solutionrelative:models\\teacherclasssubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4190A324-F1FA-4361-8564-1E7D9EBD6A20}|EmployeeManagement.csproj|c:\\internshipprojects\\employeemanagement\\dtos\\teachersubjectdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4190A324-F1FA-4361-8564-1E7D9EBD6A20}|EmployeeManagement.csproj|solutionrelative:dtos\\teachersubjectdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4190A324-F1FA-4361-8564-1E7D9EBD6A20}|EmployeeManagement.csproj|c:\\internshipprojects\\employeemanagement\\controllers\\teacherassignmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4190A324-F1FA-4361-8564-1E7D9EBD6A20}|EmployeeManagement.csproj|solutionrelative:controllers\\teacherassignmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4190A324-F1FA-4361-8564-1E7D9EBD6A20}|EmployeeManagement.csproj|c:\\internshipprojects\\employeemanagement\\dtos\\classdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4190A324-F1FA-4361-8564-1E7D9EBD6A20}|EmployeeManagement.csproj|solutionrelative:dtos\\classdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4190A324-F1FA-4361-8564-1E7D9EBD6A20}|EmployeeManagement.csproj|c:\\internshipprojects\\employeemanagement\\models\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4190A324-F1FA-4361-8564-1E7D9EBD6A20}|EmployeeManagement.csproj|solutionrelative:models\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4190A324-F1FA-4361-8564-1E7D9EBD6A20}|EmployeeManagement.csproj|c:\\internshipprojects\\employeemanagement\\dtos\\createclassdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4190A324-F1FA-4361-8564-1E7D9EBD6A20}|EmployeeManagement.csproj|solutionrelative:dtos\\createclassdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4190A324-F1FA-4361-8564-1E7D9EBD6A20}|EmployeeManagement.csproj|c:\\internshipprojects\\employeemanagement\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4190A324-F1FA-4361-8564-1E7D9EBD6A20}|EmployeeManagement.csproj|solutionrelative:models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4190A324-F1FA-4361-8564-1E7D9EBD6A20}|EmployeeManagement.csproj|c:\\internshipprojects\\employeemanagement\\models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4190A324-F1FA-4361-8564-1E7D9EBD6A20}|EmployeeManagement.csproj|solutionrelative:models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4190A324-F1FA-4361-8564-1E7D9EBD6A20}|EmployeeManagement.csproj|c:\\internshipprojects\\employeemanagement\\controllers\\teacherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4190A324-F1FA-4361-8564-1E7D9EBD6A20}|EmployeeManagement.csproj|solutionrelative:controllers\\teacherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4190A324-F1FA-4361-8564-1E7D9EBD6A20}|EmployeeManagement.csproj|c:\\internshipprojects\\employeemanagement\\controllers\\subjectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4190A324-F1FA-4361-8564-1E7D9EBD6A20}|EmployeeManagement.csproj|solutionrelative:controllers\\subjectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4190A324-F1FA-4361-8564-1E7D9EBD6A20}|EmployeeManagement.csproj|c:\\internshipprojects\\employeemanagement\\dtos\\createteacherdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4190A324-F1FA-4361-8564-1E7D9EBD6A20}|EmployeeManagement.csproj|solutionrelative:dtos\\createteacherdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4190A324-F1FA-4361-8564-1E7D9EBD6A20}|EmployeeManagement.csproj|c:\\internshipprojects\\employeemanagement\\dtos\\createsubjectdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4190A324-F1FA-4361-8564-1E7D9EBD6A20}|EmployeeManagement.csproj|solutionrelative:dtos\\createsubjectdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4190A324-F1FA-4361-8564-1E7D9EBD6A20}|EmployeeManagement.csproj|c:\\internshipprojects\\employeemanagement\\dtos\\assignteacherdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4190A324-F1FA-4361-8564-1E7D9EBD6A20}|EmployeeManagement.csproj|solutionrelative:dtos\\assignteacherdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4190A324-F1FA-4361-8564-1E7D9EBD6A20}|EmployeeManagement.csproj|c:\\internshipprojects\\employeemanagement\\dtos\\upsertdepartmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4190A324-F1FA-4361-8564-1E7D9EBD6A20}|EmployeeManagement.csproj|solutionrelative:dtos\\upsertdepartmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4190A324-F1FA-4361-8564-1E7D9EBD6A20}|EmployeeManagement.csproj|c:\\internshipprojects\\employeemanagement\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4190A324-F1FA-4361-8564-1E7D9EBD6A20}|EmployeeManagement.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4190A324-F1FA-4361-8564-1E7D9EBD6A20}|EmployeeManagement.csproj|c:\\internshipprojects\\employeemanagement\\dtos\\createdepartmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4190A324-F1FA-4361-8564-1E7D9EBD6A20}|EmployeeManagement.csproj|solutionrelative:dtos\\createdepartmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4190A324-F1FA-4361-8564-1E7D9EBD6A20}|EmployeeManagement.csproj|c:\\internshipprojects\\employeemanagement\\dtos\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4190A324-F1FA-4361-8564-1E7D9EBD6A20}|EmployeeManagement.csproj|solutionrelative:dtos\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4190A324-F1FA-4361-8564-1E7D9EBD6A20}|EmployeeManagement.csproj|c:\\internshipprojects\\employeemanagement\\dtos\\createroledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -53,6 +137,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\InternshipProjects\\EmployeeManagement\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4190A324-F1FA-4361-8564-1E7D9EBD6A20}|EmployeeManagement.csproj|c:\\internshipprojects\\employeemanagement\\migrations\\20251222184608_mig11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4190A324-F1FA-4361-8564-1E7D9EBD6A20}|EmployeeManagement.csproj|solutionrelative:migrations\\20251222184608_mig11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4190A324-F1FA-4361-8564-1E7D9EBD6A20}|EmployeeManagement.csproj|c:\\internshipprojects\\employeemanagement\\migrations\\20251224060730_mig22.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4190A324-F1FA-4361-8564-1E7D9EBD6A20}|EmployeeManagement.csproj|solutionrelative:migrations\\20251224060730_mig22.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,84 +154,102 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "UsersController.cs",
-              "DocumentMoniker": "C:\\InternshipProjects\\EmployeeManagement\\Controllers\\UsersController.cs",
-              "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
-              "ToolTip": "C:\\InternshipProjects\\EmployeeManagement\\Controllers\\UsersController.cs",
-              "RelativeToolTip": "Controllers\\UsersController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-19T09:35:46.888Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 1,
               "Title": "DepartmentsController.cs",
               "DocumentMoniker": "C:\\InternshipProjects\\EmployeeManagement\\Controllers\\DepartmentsController.cs",
               "RelativeDocumentMoniker": "Controllers\\DepartmentsController.cs",
               "ToolTip": "C:\\InternshipProjects\\EmployeeManagement\\Controllers\\DepartmentsController.cs",
               "RelativeToolTip": "Controllers\\DepartmentsController.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwCcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAkwBUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-19T09:35:09.564Z"
+              "WhenOpened": "2025-12-19T09:35:09.564Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "RolesController.cs",
               "DocumentMoniker": "C:\\InternshipProjects\\EmployeeManagement\\Controllers\\RolesController.cs",
               "RelativeDocumentMoniker": "Controllers\\RolesController.cs",
               "ToolTip": "C:\\InternshipProjects\\EmployeeManagement\\Controllers\\RolesController.cs",
               "RelativeToolTip": "Controllers\\RolesController.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAywCcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-19T09:34:35.897Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\InternshipProjects\\EmployeeManagement\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
-              "ToolTip": "C:\\InternshipProjects\\EmployeeManagement\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-19T09:30:19.438Z",
+              "WhenOpened": "2025-12-19T09:34:35.897Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\InternshipProjects\\EmployeeManagement\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\InternshipProjects\\EmployeeManagement\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAADQAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-19T09:23:32.32Z"
+              "WhenOpened": "2025-12-19T09:23:32.32Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\InternshipProjects\\EmployeeManagement\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
               "ToolTip": "C:\\InternshipProjects\\EmployeeManagement\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-12-19T09:27:34.635Z"
+              "WhenOpened": "2025-12-19T09:27:34.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IJwtService.cs",
+              "DocumentMoniker": "C:\\InternshipProjects\\EmployeeManagement\\Services\\IJwtService.cs",
+              "RelativeDocumentMoniker": "Services\\IJwtService.cs",
+              "ToolTip": "C:\\InternshipProjects\\EmployeeManagement\\Services\\IJwtService.cs",
+              "RelativeToolTip": "Services\\IJwtService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T06:37:53.38Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "C:\\InternshipProjects\\EmployeeManagement\\Services\\JwtService.cs",
+              "RelativeDocumentMoniker": "Services\\JwtService.cs",
+              "ToolTip": "C:\\InternshipProjects\\EmployeeManagement\\Services\\JwtService.cs",
+              "RelativeToolTip": "Services\\JwtService.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T06:38:39.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\InternshipProjects\\EmployeeManagement\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\InternshipProjects\\EmployeeManagement\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAABEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T06:42:47.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Department.cs",
               "DocumentMoniker": "C:\\InternshipProjects\\EmployeeManagement\\Models\\Department.cs",
               "RelativeDocumentMoniker": "Models\\Department.cs",
@@ -147,11 +257,126 @@
               "RelativeToolTip": "Models\\Department.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-19T09:29:09.652Z"
+              "WhenOpened": "2025-12-19T09:29:09.652Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\InternshipProjects\\EmployeeManagement\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\InternshipProjects\\EmployeeManagement\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T09:30:19.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TeacherAssignmentsController.cs",
+              "DocumentMoniker": "C:\\InternshipProjects\\EmployeeManagement\\Controllers\\TeacherAssignmentsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TeacherAssignmentsController.cs",
+              "ToolTip": "C:\\InternshipProjects\\EmployeeManagement\\Controllers\\TeacherAssignmentsController.cs",
+              "RelativeToolTip": "Controllers\\TeacherAssignmentsController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAYwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T18:59:04.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Class.cs",
+              "DocumentMoniker": "C:\\InternshipProjects\\EmployeeManagement\\Models\\Class.cs",
+              "RelativeDocumentMoniker": "Models\\Class.cs",
+              "ToolTip": "C:\\InternshipProjects\\EmployeeManagement\\Models\\Class.cs",
+              "RelativeToolTip": "Models\\Class.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T18:39:31.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ClassesController.cs",
+              "DocumentMoniker": "C:\\InternshipProjects\\EmployeeManagement\\Controllers\\ClassesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ClassesController.cs",
+              "ToolTip": "C:\\InternshipProjects\\EmployeeManagement\\Controllers\\ClassesController.cs",
+              "RelativeToolTip": "Controllers\\ClassesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T18:57:55.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CreateClassDto.cs",
+              "DocumentMoniker": "C:\\InternshipProjects\\EmployeeManagement\\Dtos\\CreateClassDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\CreateClassDto.cs",
+              "ToolTip": "C:\\InternshipProjects\\EmployeeManagement\\Dtos\\CreateClassDto.cs",
+              "RelativeToolTip": "Dtos\\CreateClassDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T18:52:32.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\InternshipProjects\\EmployeeManagement\\Dtos\\LoginDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\LoginDto.cs",
+              "ToolTip": "C:\\InternshipProjects\\EmployeeManagement\\Dtos\\LoginDto.cs",
+              "RelativeToolTip": "Dtos\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T06:43:15.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\InternshipProjects\\EmployeeManagement\\Dtos\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\RegisterDto.cs",
+              "ToolTip": "C:\\InternshipProjects\\EmployeeManagement\\Dtos\\RegisterDto.cs",
+              "RelativeToolTip": "Dtos\\RegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T07:04:15.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20251231065609_mig5.cs",
+              "DocumentMoniker": "C:\\InternshipProjects\\EmployeeManagement\\Migrations\\20251231065609_mig5.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251231065609_mig5.cs",
+              "ToolTip": "C:\\InternshipProjects\\EmployeeManagement\\Migrations\\20251231065609_mig5.cs",
+              "RelativeToolTip": "Migrations\\20251231065609_mig5.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T06:56:09.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\InternshipProjects\\EmployeeManagement\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\InternshipProjects\\EmployeeManagement\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T09:28:31.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Role.cs",
               "DocumentMoniker": "C:\\InternshipProjects\\EmployeeManagement\\Models\\Role.cs",
               "RelativeDocumentMoniker": "Models\\Role.cs",
@@ -159,35 +384,169 @@
               "RelativeToolTip": "Models\\Role.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-19T09:28:46.936Z"
+              "WhenOpened": "2025-12-19T09:28:46.936Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\InternshipProjects\\EmployeeManagement\\Models\\User.cs",
-              "RelativeDocumentMoniker": "Models\\User.cs",
-              "ToolTip": "C:\\InternshipProjects\\EmployeeManagement\\Models\\User.cs",
-              "RelativeToolTip": "Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
+              "DocumentIndex": 18,
+              "Title": "ClassDetailDto.cs",
+              "DocumentMoniker": "C:\\InternshipProjects\\EmployeeManagement\\Dtos\\ClassDetailDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\ClassDetailDto.cs",
+              "ToolTip": "C:\\InternshipProjects\\EmployeeManagement\\Dtos\\ClassDetailDto.cs",
+              "RelativeToolTip": "Dtos\\ClassDetailDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-19T09:28:31.422Z"
+              "WhenOpened": "2025-12-24T05:53:05.359Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "CreateRoleDto.cs",
-              "DocumentMoniker": "C:\\InternshipProjects\\EmployeeManagement\\Dtos\\CreateRoleDto.cs",
-              "RelativeDocumentMoniker": "Dtos\\CreateRoleDto.cs",
-              "ToolTip": "C:\\InternshipProjects\\EmployeeManagement\\Dtos\\CreateRoleDto.cs",
-              "RelativeToolTip": "Dtos\\CreateRoleDto.cs",
+              "DocumentIndex": 22,
+              "Title": "Subject.cs",
+              "DocumentMoniker": "C:\\InternshipProjects\\EmployeeManagement\\Models\\Subject.cs",
+              "RelativeDocumentMoniker": "Models\\Subject.cs",
+              "ToolTip": "C:\\InternshipProjects\\EmployeeManagement\\Models\\Subject.cs",
+              "RelativeToolTip": "Models\\Subject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T18:40:02.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TeacherClassSubject.cs",
+              "DocumentMoniker": "C:\\InternshipProjects\\EmployeeManagement\\Models\\TeacherClassSubject.cs",
+              "RelativeDocumentMoniker": "Models\\TeacherClassSubject.cs",
+              "ToolTip": "C:\\InternshipProjects\\EmployeeManagement\\Models\\TeacherClassSubject.cs",
+              "RelativeToolTip": "Models\\TeacherClassSubject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T18:40:46.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TeacherSubjectDto.cs",
+              "DocumentMoniker": "C:\\InternshipProjects\\EmployeeManagement\\Dtos\\TeacherSubjectDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\TeacherSubjectDto.cs",
+              "ToolTip": "C:\\InternshipProjects\\EmployeeManagement\\Dtos\\TeacherSubjectDto.cs",
+              "RelativeToolTip": "Dtos\\TeacherSubjectDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T11:58:28.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "20251224060730_mig22.cs",
+              "DocumentMoniker": "C:\\InternshipProjects\\EmployeeManagement\\Migrations\\20251224060730_mig22.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251224060730_mig22.cs",
+              "ToolTip": "C:\\InternshipProjects\\EmployeeManagement\\Migrations\\20251224060730_mig22.cs",
+              "RelativeToolTip": "Migrations\\20251224060730_mig22.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T06:07:31.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\InternshipProjects\\EmployeeManagement\\Models\\Teacher.cs",
+              "RelativeDocumentMoniker": "Models\\Teacher.cs",
+              "ToolTip": "C:\\InternshipProjects\\EmployeeManagement\\Models\\Teacher.cs",
+              "RelativeToolTip": "Models\\Teacher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T18:38:48.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "TeachersController.cs",
+              "DocumentMoniker": "C:\\InternshipProjects\\EmployeeManagement\\Controllers\\TeachersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TeachersController.cs",
+              "ToolTip": "C:\\InternshipProjects\\EmployeeManagement\\Controllers\\TeachersController.cs",
+              "RelativeToolTip": "Controllers\\TeachersController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T18:57:18.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "SubjectsController.cs",
+              "DocumentMoniker": "C:\\InternshipProjects\\EmployeeManagement\\Controllers\\SubjectsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SubjectsController.cs",
+              "ToolTip": "C:\\InternshipProjects\\EmployeeManagement\\Controllers\\SubjectsController.cs",
+              "RelativeToolTip": "Controllers\\SubjectsController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T18:58:22.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CreateSubjectDto.cs",
+              "DocumentMoniker": "C:\\InternshipProjects\\EmployeeManagement\\Dtos\\CreateSubjectDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\CreateSubjectDto.cs",
+              "ToolTip": "C:\\InternshipProjects\\EmployeeManagement\\Dtos\\CreateSubjectDto.cs",
+              "RelativeToolTip": "Dtos\\CreateSubjectDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-19T17:41:21.813Z"
+              "WhenOpened": "2025-12-22T18:52:57.995Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 25,
+              "Title": "CreateTeacherDto.cs",
+              "DocumentMoniker": "C:\\InternshipProjects\\EmployeeManagement\\Dtos\\CreateTeacherDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\CreateTeacherDto.cs",
+              "ToolTip": "C:\\InternshipProjects\\EmployeeManagement\\Dtos\\CreateTeacherDto.cs",
+              "RelativeToolTip": "Dtos\\CreateTeacherDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T18:52:19.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AssignTeacherDto.cs",
+              "DocumentMoniker": "C:\\InternshipProjects\\EmployeeManagement\\Dtos\\AssignTeacherDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\AssignTeacherDto.cs",
+              "ToolTip": "C:\\InternshipProjects\\EmployeeManagement\\Dtos\\AssignTeacherDto.cs",
+              "RelativeToolTip": "Dtos\\AssignTeacherDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T18:53:30.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "20251222184608_mig11.cs",
+              "DocumentMoniker": "C:\\InternshipProjects\\EmployeeManagement\\Migrations\\20251222184608_mig11.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251222184608_mig11.cs",
+              "ToolTip": "C:\\InternshipProjects\\EmployeeManagement\\Migrations\\20251222184608_mig11.cs",
+              "RelativeToolTip": "Migrations\\20251222184608_mig11.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T18:46:08.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "UpsertDepartmentDto.cs",
+              "DocumentMoniker": "C:\\InternshipProjects\\EmployeeManagement\\Dtos\\UpsertDepartmentDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\UpsertDepartmentDto.cs",
+              "ToolTip": "C:\\InternshipProjects\\EmployeeManagement\\Dtos\\UpsertDepartmentDto.cs",
+              "RelativeToolTip": "Dtos\\UpsertDepartmentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T18:24:46.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
               "Title": "CreateDepartmentDto.cs",
               "DocumentMoniker": "C:\\InternshipProjects\\EmployeeManagement\\Dtos\\CreateDepartmentDto.cs",
               "RelativeDocumentMoniker": "Dtos\\CreateDepartmentDto.cs",
@@ -199,7 +558,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 29,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\InternshipProjects\\EmployeeManagement\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
+              "ToolTip": "C:\\InternshipProjects\\EmployeeManagement\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Controllers\\UsersController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAuwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T09:35:46.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
               "Title": "CreateUserDto.cs",
               "DocumentMoniker": "C:\\InternshipProjects\\EmployeeManagement\\Dtos\\CreateUserDto.cs",
               "RelativeDocumentMoniker": "Dtos\\CreateUserDto.cs",
@@ -211,7 +582,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 32,
+              "Title": "CreateRoleDto.cs",
+              "DocumentMoniker": "C:\\InternshipProjects\\EmployeeManagement\\Dtos\\CreateRoleDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\CreateRoleDto.cs",
+              "ToolTip": "C:\\InternshipProjects\\EmployeeManagement\\Dtos\\CreateRoleDto.cs",
+              "RelativeToolTip": "Dtos\\CreateRoleDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T17:41:21.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
               "Title": "README.md",
               "DocumentMoniker": "C:\\InternshipProjects\\EmployeeManagement\\README.md",
               "RelativeDocumentMoniker": "README.md",

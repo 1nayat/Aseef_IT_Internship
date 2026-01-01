@@ -289,3 +289,5 @@ C:\InternshipProjects\EmployeeManagement\obj\Debug\net8.0\refint\EmployeeManagem
 C:\InternshipProjects\EmployeeManagement\obj\Debug\net8.0\EmployeeManagement.pdb
 C:\InternshipProjects\EmployeeManagement\obj\Debug\net8.0\EmployeeManagement.genruntimeconfig.cache
 C:\InternshipProjects\EmployeeManagement\obj\Debug\net8.0\ref\EmployeeManagement.dll
+C:\InternshipProjects\EmployeeManagement\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\InternshipProjects\EmployeeManagement\bin\Debug\net8.0\BCrypt.Net-Next.dll

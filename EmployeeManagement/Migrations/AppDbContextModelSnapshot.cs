@@ -21,6 +21,26 @@ namespace EmployeeManagement.Migrations
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
 
+            modelBuilder.Entity("EmployeeManagement.Models.Class", b =>
+                {
+                    b.Property<int>("ClassId")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("ClassId"));
+
+                    b.Property<string>("ClassName")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<bool>("IsDeleted")
+                        .HasColumnType("bit");
+
+                    b.HasKey("ClassId");
+
+                    b.ToTable("Classes");
+                });
+
             modelBuilder.Entity("EmployeeManagement.Models.Department", b =>
                 {
                     b.Property<int>("DepartmentId")
@@ -55,6 +75,60 @@ namespace EmployeeManagement.Migrations
                     b.ToTable("Roles");
                 });
 
+            modelBuilder.Entity("EmployeeManagement.Models.Subject", b =>
+                {
+                    b.Property<int>("SubjectId")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("SubjectId"));
+
+                    b.Property<string>("SubjectName")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("SubjectId");
+
+                    b.ToTable("Subjects");
+                });
+
+            modelBuilder.Entity("EmployeeManagement.Models.Teacher", b =>
+                {
+                    b.Property<int>("TeacherId")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("TeacherId"));
+
+                    b.Property<string>("Name")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("TeacherId");
+
+                    b.ToTable("Teachers");
+                });
+
+            modelBuilder.Entity("EmployeeManagement.Models.TeacherClassSubject", b =>
+                {
+                    b.Property<int>("TeacherId")
+                        .HasColumnType("int");
+
+                    b.Property<int>("ClassId")
+                        .HasColumnType("int");
+
+                    b.Property<int>("SubjectId")
+                        .HasColumnType("int");
+
+                    b.HasKey("TeacherId", "ClassId", "SubjectId");
+
+                    b.HasIndex("ClassId");
+
+                    b.HasIndex("SubjectId");
+
+                    b.ToTable("TeacherClassSubjects");
+                });
+
             modelBuilder.Entity("EmployeeManagement.Models.User", b =>
                 {
                     b.Property<int>("UserId")
@@ -74,6 +148,10 @@ namespace EmployeeManagement.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
+                    b.Property<string>("PasswordHash")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
                     b.Property<int>("RoleId")
                         .HasColumnType("int");
 
@@ -84,6 +162,33 @@ namespace EmployeeManagement.Migrations
                     b.HasIndex("RoleId");
 
                     b.ToTable("Users");
+                });
+
+            modelBuilder.Entity("EmployeeManagement.Models.TeacherClassSubject", b =>
+                {
+                    b.HasOne("EmployeeManagement.Models.Class", "Class")
+                        .WithMany("TeacherClassSubjects")
+                        .HasForeignKey("ClassId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("EmployeeManagement.Models.Subject", "Subject")
+                        .WithMany("TeacherClassSubjects")
+                        .HasForeignKey("SubjectId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("EmployeeManagement.Models.Teacher", "Teacher")
+                        .WithMany("TeacherClassSubjects")
+                        .HasForeignKey("TeacherId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Class");
+
+                    b.Navigation("Subject");
+
+                    b.Navigation("Teacher");
                 });
 
             modelBuilder.Entity("EmployeeManagement.Models.User", b =>
@@ -105,6 +210,11 @@ namespace EmployeeManagement.Migrations
                     b.Navigation("Role");
                 });
 
+            modelBuilder.Entity("EmployeeManagement.Models.Class", b =>
+                {
+                    b.Navigation("TeacherClassSubjects");
+                });
+
             modelBuilder.Entity("EmployeeManagement.Models.Department", b =>
                 {
                     b.Navigation("Users");
@@ -113,6 +223,16 @@ namespace EmployeeManagement.Migrations
             modelBuilder.Entity("EmployeeManagement.Models.Role", b =>
                 {
                     b.Navigation("Users");
+                });
+
+            modelBuilder.Entity("EmployeeManagement.Models.Subject", b =>
+                {
+                    b.Navigation("TeacherClassSubjects");
+                });
+
+            modelBuilder.Entity("EmployeeManagement.Models.Teacher", b =>
+                {
+                    b.Navigation("TeacherClassSubjects");
                 });
 #pragma warning restore 612, 618
         }

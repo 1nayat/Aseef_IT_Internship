@@ -1,13 +1,16 @@
-﻿using Microsoft.AspNetCore.Mvc;
-using Microsoft.EntityFrameworkCore;
-using EmployeeManagement.Data;
-using EmployeeManagement.Models;
+﻿using EmployeeManagement.Data;
 using EmployeeManagement.Dtos;
+using EmployeeManagement.Models;
+using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 
 namespace EmployeeManagement.Controllers;
 
 [ApiController]
 [Route("api/[controller]")]
+[Authorize(Roles = "Admin")] 
+
 public class RolesController : ControllerBase
 {
     private readonly AppDbContext _context;

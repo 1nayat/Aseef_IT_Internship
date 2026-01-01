@@ -1,0 +1,12 @@
+﻿namespace EmployeeManagement.Dtos
+{
+    public class ClassDetailsDto
+    {
+        public int ClassId { get; set; }
+        public string ClassName { get; set; }
+
+        public List<TeacherSubjectDto> TeacherSubjects { get; set; }
+    }
+
+
+}
